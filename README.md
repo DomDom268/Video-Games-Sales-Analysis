@@ -1,6 +1,6 @@
 # 🎮 Video Game Sales Analysis
 
-This project analyzes global video game sales data to identify trends and insights across platforms, genres, publishers, and regions. It leverages data cleaning, visualization, and interactive dashboards to support data-driven decision-making.
+This project analyzes global video game sales data to identify trends and insights across platforms, genres, publishers, and regions. It leverages data cleaning, visualization, and interactive dashboards to support data-driven decision-making. View dashboard here: 
 
 ---
 
